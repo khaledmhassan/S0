@@ -1,0 +1,16 @@
+git init
+git add
+git status
+git rm
+git commit
+git config --global user.name
+git config --global user.email
+git log
+git revert
+git remote add origin 
+git push
+git branch
+git checkout
+git merge
+
+
